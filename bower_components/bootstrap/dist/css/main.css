@@ -1,0 +1,30 @@
+
+body {
+	background-color: #A395CA;
+}
+
+.container {
+	height: 600px;
+}
+
+.carousel {
+	height: 350px;
+}
+
+/*.carousel-inner {
+	padding-top: 250px;
+}*/
+
+.carousel-indicators.carousel-indicators--thumbnails li {
+  width: 80px;
+  height: 40px;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+}
+.carousel-indicators.carousel-indicators--thumbnails .active {
+  background-color: transparent;
+}
+.carousel-indicators.carousel-indicators--thumbnails .active .thumbnail {
+  border-color: #337ab7;
+}

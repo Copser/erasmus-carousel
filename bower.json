@@ -1,0 +1,25 @@
+{
+  "name": "HappyClientsCarousel",
+  "authors": [
+    "Copser <ppilipovic84@gmail.com>"
+  ],
+  "description": "modify carousel for erasmus",
+  "main": "index.html",
+  "keywords": [
+    "modify",
+    "carousel",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
